@@ -13107,8 +13107,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6454454b8e7bffc4d892da50cd0e4a4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _position: {x: -16.38112, y: 0.6589037, z: 6.19814}
-  _rotation: {x: 359.9629, y: 331.4119, z: 1.7049673}
+  _position: {x: 0, y: 0, z: 0}
+  _rotation: {x: -0, y: 0, z: 0}
   _scale: {x: 2.246279, y: 2.246279, z: 2.246279}
   _enabled: 0
   _transformPivot: 1
@@ -32896,12 +32896,12 @@ PrefabInstance:
     - target: {fileID: 4168376505930682190, guid: 1cc513f9f764014469cd2d00448b1e57,
         type: 3}
       propertyPath: OnFinishEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4168376505930682190, guid: 1cc513f9f764014469cd2d00448b1e57,
         type: 3}
       propertyPath: OnFinishEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: LoadSceneByIndex
+      value: LoadNextScene
       objectReference: {fileID: 0}
     - target: {fileID: 4168376505930682190, guid: 1cc513f9f764014469cd2d00448b1e57,
         type: 3}
@@ -55888,8 +55888,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ace7d2110d53054789ee471eb4ec241, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _position: {x: -15.137622, y: 0.6589072, z: 9.379095}
-  _rotation: {x: 9.747365, y: 357.25232, z: 353.7434}
+  _position: {x: 0, y: 0, z: 0}
+  _rotation: {x: -0, y: 0, z: 0}
   _scale: {x: 1, y: 1, z: 1}
   _enabled: 0
   _transformPivot: 1
